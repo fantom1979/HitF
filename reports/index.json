@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260601-002532-uspp",
+      "title": "Wuppët Baë",
+      "commanders": [
+        "Wuppët Baë"
+      ],
+      "dateStart": "2026-06-01T04:25:32.000Z",
+      "dateEnd": "2026-06-01T05:04:27.000Z",
+      "dateLabel": "6/1/2026, 12:25:32 AM - 6/1/2026, 1:04:27 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260601-002532-uspp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 44
+      }
+    }
+  ]
+}
