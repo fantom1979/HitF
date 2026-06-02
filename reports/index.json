@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260601-233732-y86k",
+      "title": "Sister Less",
+      "commanders": [
+        "Sister Less"
+      ],
+      "dateStart": "2026-06-02T03:37:32.000Z",
+      "dateEnd": "2026-06-02T04:28:19.000Z",
+      "dateLabel": "6/1/2026, 11:37:32 PM - 6/2/2026, 12:28:19 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260601-233732-y86k",
+      "summary": {
+        "borderlandsPct": 0.24242424242424243,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260601-002532-uspp",
       "title": "Wuppët Baë",
       "commanders": [
