@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260607-001333-7lpy",
+      "title": "Wuppët Baë",
+      "commanders": [
+        "Wuppët Baë"
+      ],
+      "dateStart": "2026-06-07T04:13:33.000Z",
+      "dateEnd": "2026-06-07T05:02:59.000Z",
+      "dateLabel": "6/7/2026, 12:13:33 AM - 6/7/2026, 1:02:59 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260607-001333-7lpy",
+      "summary": {
+        "borderlandsPct": 0.38235294117647056,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260604-013922-k9dg",
       "title": "Lust Less",
       "commanders": [
