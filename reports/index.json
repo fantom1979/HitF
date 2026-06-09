@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260609-001654-azoy",
+      "title": "Situation Asty",
+      "commanders": [
+        "Situation Asty"
+      ],
+      "dateStart": "2026-06-09T04:16:54.000Z",
+      "dateEnd": "2026-06-09T05:32:12.000Z",
+      "dateLabel": "6/9/2026, 12:16:54 AM - 6/9/2026, 1:32:12 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260609-001654-azoy",
+      "summary": {
+        "borderlandsPct": 0.8571428571428571,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260608-003058-3idi",
       "title": "Wuppët Baë",
       "commanders": [
