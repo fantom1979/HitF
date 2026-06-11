@@ -1,8 +1,31 @@
 {
-  "colorPalette": "electric-blue",
+  "colorPalette": "gold-bronze",
   "glassSurfaces": false,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260611-002345-kit0",
+      "title": "Lust Less",
+      "commanders": [
+        "Lust Less"
+      ],
+      "dateStart": "2026-06-11T04:23:45.000Z",
+      "dateEnd": "2026-06-11T05:16:27.000Z",
+      "dateLabel": "6/11/2026, 12:23:45 AM - 6/11/2026, 1:16:27 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260611-002345-kit0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 48
+      }
+    },
     {
       "id": "20260609-001654-azoy",
       "title": "Situation Asty",
