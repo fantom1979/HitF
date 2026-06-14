@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260614-005500-wyxo",
+      "title": "Arxidotroxa, Porttime",
+      "commanders": [
+        "Arxidotroxa",
+        "Porttime"
+      ],
+      "dateStart": "2026-06-14T04:55:00.000Z",
+      "dateEnd": "2026-06-14T06:36:40.000Z",
+      "dateLabel": "6/14/2026, 12:55:00 AM - 6/14/2026, 2:36:40 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260614-005500-wyxo",
+      "summary": {
+        "borderlandsPct": 0.7142857142857143,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260612-235622-lflo",
       "title": "Sister Less",
       "commanders": [
