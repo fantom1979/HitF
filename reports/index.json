@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260615-013857-o1ew",
+      "title": "Situation Asty",
+      "commanders": [
+        "Situation Asty"
+      ],
+      "dateStart": "2026-06-15T05:38:57.000Z",
+      "dateEnd": "2026-06-15T06:01:55.000Z",
+      "dateLabel": "6/15/2026, 1:38:57 AM - 6/15/2026, 2:01:55 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260615-013857-o1ew",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260614-005500-wyxo",
       "title": "Arxidotroxa, Porttime",
       "commanders": [
