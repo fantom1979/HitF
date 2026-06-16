@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260616-001138-4esb",
+      "title": "Situation Asty",
+      "commanders": [
+        "Situation Asty"
+      ],
+      "dateStart": "2026-06-16T04:11:38.000Z",
+      "dateEnd": "2026-06-16T04:59:48.000Z",
+      "dateLabel": "6/16/2026, 12:11:38 AM - 6/16/2026, 12:59:48 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260616-001138-4esb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260615-013857-o1ew",
       "title": "Situation Asty",
       "commanders": [
