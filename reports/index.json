@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260621-235549-ilj9",
+      "title": "Lust Less",
+      "commanders": [
+        "Lust Less"
+      ],
+      "dateStart": "2026-06-22T03:55:49.000Z",
+      "dateEnd": "2026-06-22T05:01:15.000Z",
+      "dateLabel": "6/21/2026, 11:55:49 PM - 6/22/2026, 1:01:15 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260621-235549-ilj9",
+      "summary": {
+        "borderlandsPct": 0.5666666666666667,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260618-001440-oh06",
       "title": "Situation Asty",
       "commanders": [
