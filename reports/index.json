@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260624-000658-6ny5",
+      "title": "Sister Less",
+      "commanders": [
+        "Sister Less"
+      ],
+      "dateStart": "2026-06-24T04:06:58.000Z",
+      "dateEnd": "2026-06-24T05:09:43.000Z",
+      "dateLabel": "6/24/2026, 12:06:58 AM - 6/24/2026, 1:09:43 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260624-000658-6ny5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260622-234525-dxjm",
       "title": "Arxidotroxa, Rage Less",
       "commanders": [
