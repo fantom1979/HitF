@@ -1,458 +1,486 @@
-[
-  {
-    "id": "20260624-000658-6ny5",
-    "title": "Sister Less",
-    "commanders": [
-      "Sister Less"
-    ],
-    "dateStart": "2026-06-24T04:06:58.000Z",
-    "dateEnd": "2026-06-24T05:09:43.000Z",
-    "dateLabel": "6/24/2026, 12:06:58 AM - 6/24/2026, 1:09:43 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260624-000658-6ny5",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 27,
-          "color": "#22c55e"
-        }
+{
+  "colorPalette": "gold-bronze",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260624-235747-fnwn",
+      "title": "Sister Less",
+      "commanders": [
+        "Sister Less"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 39
-    }
-  },
-  {
-    "id": "20260622-234525-dxjm",
-    "title": "Arxidotroxa, Rage Less",
-    "commanders": [
-      "Arxidotroxa",
-      "Rage Less"
-    ],
-    "dateStart": "2026-06-23T03:45:25.000Z",
-    "dateEnd": "2026-06-23T04:27:15.000Z",
-    "dateLabel": "6/22/2026, 11:45:25 PM - 6/23/2026, 12:27:15 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260622-234525-dxjm",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 39,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-06-25T03:57:47.000Z",
+      "dateEnd": "2026-06-25T05:51:13.000Z",
+      "dateLabel": "6/24/2026, 11:57:47 PM - 6/25/2026, 1:51:13 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260624-235747-fnwn",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 56
+      }
+    },
+    {
+      "id": "20260624-000658-6ny5",
+      "title": "Sister Less",
+      "commanders": [
+        "Sister Less"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 39
-    }
-  },
-  {
-    "id": "20260621-235549-ilj9",
-    "title": "Lust Less",
-    "commanders": [
-      "Lust Less"
-    ],
-    "dateStart": "2026-06-22T03:55:49.000Z",
-    "dateEnd": "2026-06-22T05:01:15.000Z",
-    "dateLabel": "6/21/2026, 11:55:49 PM - 6/22/2026, 1:01:15 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260621-235549-ilj9",
-    "summary": {
-      "borderlandsPct": 0.5666666666666667,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 17,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 13,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-06-24T04:06:58.000Z",
+      "dateEnd": "2026-06-24T05:09:43.000Z",
+      "dateLabel": "6/24/2026, 12:06:58 AM - 6/24/2026, 1:09:43 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260624-000658-6ny5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 39
+      }
+    },
+    {
+      "id": "20260622-234525-dxjm",
+      "title": "Arxidotroxa, Rage Less",
+      "commanders": [
+        "Arxidotroxa",
+        "Rage Less"
       ],
-      "avgSquadSize": 29,
-      "avgEnemySize": 47
-    }
-  },
-  {
-    "id": "20260618-001440-oh06",
-    "title": "Situation Asty",
-    "commanders": [
-      "Situation Asty"
-    ],
-    "dateStart": "2026-06-18T04:14:40.000Z",
-    "dateEnd": "2026-06-18T04:49:01.000Z",
-    "dateLabel": "6/18/2026, 12:14:40 AM - 6/18/2026, 12:49:01 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260618-001440-oh06",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 28,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-06-23T03:45:25.000Z",
+      "dateEnd": "2026-06-23T04:27:15.000Z",
+      "dateLabel": "6/22/2026, 11:45:25 PM - 6/23/2026, 12:27:15 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260622-234525-dxjm",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 39,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 39
+      }
+    },
+    {
+      "id": "20260621-235549-ilj9",
+      "title": "Lust Less",
+      "commanders": [
+        "Lust Less"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 56
-    }
-  },
-  {
-    "id": "20260616-001138-4esb",
-    "title": "Situation Asty",
-    "commanders": [
-      "Situation Asty"
-    ],
-    "dateStart": "2026-06-16T04:11:38.000Z",
-    "dateEnd": "2026-06-16T04:59:48.000Z",
-    "dateLabel": "6/16/2026, 12:11:38 AM - 6/16/2026, 12:59:48 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260616-001138-4esb",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 28,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-06-22T03:55:49.000Z",
+      "dateEnd": "2026-06-22T05:01:15.000Z",
+      "dateLabel": "6/21/2026, 11:55:49 PM - 6/22/2026, 1:01:15 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260621-235549-ilj9",
+      "summary": {
+        "borderlandsPct": 0.5666666666666667,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 47
+      }
+    },
+    {
+      "id": "20260618-001440-oh06",
+      "title": "Situation Asty",
+      "commanders": [
+        "Situation Asty"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 57
-    }
-  },
-  {
-    "id": "20260615-013857-o1ew",
-    "title": "Situation Asty",
-    "commanders": [
-      "Situation Asty"
-    ],
-    "dateStart": "2026-06-15T05:38:57.000Z",
-    "dateEnd": "2026-06-15T06:01:55.000Z",
-    "dateLabel": "6/15/2026, 1:38:57 AM - 6/15/2026, 2:01:55 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260615-013857-o1ew",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 6,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-06-18T04:14:40.000Z",
+      "dateEnd": "2026-06-18T04:49:01.000Z",
+      "dateLabel": "6/18/2026, 12:14:40 AM - 6/18/2026, 12:49:01 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260618-001440-oh06",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 56
+      }
+    },
+    {
+      "id": "20260616-001138-4esb",
+      "title": "Situation Asty",
+      "commanders": [
+        "Situation Asty"
       ],
-      "avgSquadSize": 34,
-      "avgEnemySize": 33
-    }
-  },
-  {
-    "id": "20260614-005500-wyxo",
-    "title": "Arxidotroxa, Porttime",
-    "commanders": [
-      "Arxidotroxa",
-      "Porttime"
-    ],
-    "dateStart": "2026-06-14T04:55:00.000Z",
-    "dateEnd": "2026-06-14T06:36:40.000Z",
-    "dateLabel": "6/14/2026, 12:55:00 AM - 6/14/2026, 2:36:40 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260614-005500-wyxo",
-    "summary": {
-      "borderlandsPct": 0.7142857142857143,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 9,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 4,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-06-16T04:11:38.000Z",
+      "dateEnd": "2026-06-16T04:59:48.000Z",
+      "dateLabel": "6/16/2026, 12:11:38 AM - 6/16/2026, 12:59:48 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260616-001138-4esb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 57
+      }
+    },
+    {
+      "id": "20260615-013857-o1ew",
+      "title": "Situation Asty",
+      "commanders": [
+        "Situation Asty"
       ],
-      "avgSquadSize": 18,
-      "avgEnemySize": 29
-    }
-  },
-  {
-    "id": "20260612-235622-lflo",
-    "title": "Sister Less",
-    "commanders": [
-      "Sister Less"
-    ],
-    "dateStart": "2026-06-13T03:56:22.000Z",
-    "dateEnd": "2026-06-13T05:25:39.000Z",
-    "dateLabel": "6/12/2026, 11:56:22 PM - 6/13/2026, 1:25:39 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260612-235622-lflo",
-    "summary": {
-      "borderlandsPct": 0.5517241379310345,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 16,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 13,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-06-15T05:38:57.000Z",
+      "dateEnd": "2026-06-15T06:01:55.000Z",
+      "dateLabel": "6/15/2026, 1:38:57 AM - 6/15/2026, 2:01:55 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260615-013857-o1ew",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 33
+      }
+    },
+    {
+      "id": "20260614-005500-wyxo",
+      "title": "Arxidotroxa, Porttime",
+      "commanders": [
+        "Arxidotroxa",
+        "Porttime"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 42
-    }
-  },
-  {
-    "id": "20260612-004037-pd4i",
-    "title": "Sister Less",
-    "commanders": [
-      "Sister Less"
-    ],
-    "dateStart": "2026-06-12T04:40:37.000Z",
-    "dateEnd": "2026-06-12T05:27:06.000Z",
-    "dateLabel": "6/12/2026, 12:40:37 AM - 6/12/2026, 1:27:06 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260612-004037-pd4i",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 16,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-06-14T04:55:00.000Z",
+      "dateEnd": "2026-06-14T06:36:40.000Z",
+      "dateLabel": "6/14/2026, 12:55:00 AM - 6/14/2026, 2:36:40 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260614-005500-wyxo",
+      "summary": {
+        "borderlandsPct": 0.7142857142857143,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 29
+      }
+    },
+    {
+      "id": "20260612-235622-lflo",
+      "title": "Sister Less",
+      "commanders": [
+        "Sister Less"
       ],
-      "avgSquadSize": 40,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260611-002345-kit0",
-    "title": "Lust Less",
-    "commanders": [
-      "Lust Less"
-    ],
-    "dateStart": "2026-06-11T04:23:45.000Z",
-    "dateEnd": "2026-06-11T05:16:27.000Z",
-    "dateLabel": "6/11/2026, 12:23:45 AM - 6/11/2026, 1:16:27 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260611-002345-kit0",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 28,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-06-13T03:56:22.000Z",
+      "dateEnd": "2026-06-13T05:25:39.000Z",
+      "dateLabel": "6/12/2026, 11:56:22 PM - 6/13/2026, 1:25:39 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260612-235622-lflo",
+      "summary": {
+        "borderlandsPct": 0.5517241379310345,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 42
+      }
+    },
+    {
+      "id": "20260612-004037-pd4i",
+      "title": "Sister Less",
+      "commanders": [
+        "Sister Less"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260609-001654-azoy",
-    "title": "Situation Asty",
-    "commanders": [
-      "Situation Asty"
-    ],
-    "dateStart": "2026-06-09T04:16:54.000Z",
-    "dateEnd": "2026-06-09T05:32:12.000Z",
-    "dateLabel": "6/9/2026, 12:16:54 AM - 6/9/2026, 1:32:12 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260609-001654-azoy",
-    "summary": {
-      "borderlandsPct": 0.8571428571428571,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 6,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 1,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-06-12T04:40:37.000Z",
+      "dateEnd": "2026-06-12T05:27:06.000Z",
+      "dateLabel": "6/12/2026, 12:40:37 AM - 6/12/2026, 1:27:06 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260612-004037-pd4i",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260611-002345-kit0",
+      "title": "Lust Less",
+      "commanders": [
+        "Lust Less"
       ],
-      "avgSquadSize": 19,
-      "avgEnemySize": 39
-    }
-  },
-  {
-    "id": "20260608-003058-3idi",
-    "title": "Wuppët Baë",
-    "commanders": [
-      "Wuppët Baë"
-    ],
-    "dateStart": "2026-06-08T04:30:58.000Z",
-    "dateEnd": "2026-06-08T05:24:21.000Z",
-    "dateLabel": "6/8/2026, 12:30:58 AM - 6/8/2026, 1:24:21 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260608-003058-3idi",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 32,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-06-11T04:23:45.000Z",
+      "dateEnd": "2026-06-11T05:16:27.000Z",
+      "dateLabel": "6/11/2026, 12:23:45 AM - 6/11/2026, 1:16:27 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260611-002345-kit0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 48
+      }
+    },
+    {
+      "id": "20260609-001654-azoy",
+      "title": "Situation Asty",
+      "commanders": [
+        "Situation Asty"
       ],
-      "avgSquadSize": 39,
-      "avgEnemySize": 52
-    }
-  },
-  {
-    "id": "20260607-001333-7lpy",
-    "title": "Wuppët Baë",
-    "commanders": [
-      "Wuppët Baë"
-    ],
-    "dateStart": "2026-06-07T04:13:33.000Z",
-    "dateEnd": "2026-06-07T05:02:59.000Z",
-    "dateLabel": "6/7/2026, 12:13:33 AM - 6/7/2026, 1:02:59 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260607-001333-7lpy",
-    "summary": {
-      "borderlandsPct": 0.38235294117647056,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 21,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 13,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-06-09T04:16:54.000Z",
+      "dateEnd": "2026-06-09T05:32:12.000Z",
+      "dateLabel": "6/9/2026, 12:16:54 AM - 6/9/2026, 1:32:12 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260609-001654-azoy",
+      "summary": {
+        "borderlandsPct": 0.8571428571428571,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 39
+      }
+    },
+    {
+      "id": "20260608-003058-3idi",
+      "title": "Wuppët Baë",
+      "commanders": [
+        "Wuppët Baë"
       ],
-      "avgSquadSize": 38,
-      "avgEnemySize": 47
-    }
-  },
-  {
-    "id": "20260604-013922-k9dg",
-    "title": "Lust Less",
-    "commanders": [
-      "Lust Less"
-    ],
-    "dateStart": "2026-06-04T05:39:22.000Z",
-    "dateEnd": "2026-06-04T06:29:40.000Z",
-    "dateLabel": "6/4/2026, 1:39:22 AM - 6/4/2026, 2:29:40 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260604-013922-k9dg",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 23,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-06-08T04:30:58.000Z",
+      "dateEnd": "2026-06-08T05:24:21.000Z",
+      "dateLabel": "6/8/2026, 12:30:58 AM - 6/8/2026, 1:24:21 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260608-003058-3idi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 52
+      }
+    },
+    {
+      "id": "20260607-001333-7lpy",
+      "title": "Wuppët Baë",
+      "commanders": [
+        "Wuppët Baë"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 44
-    }
-  },
-  {
-    "id": "20260603-235933-achd",
-    "title": "Lust Less",
-    "commanders": [
-      "Lust Less"
-    ],
-    "dateStart": "2026-06-04T03:59:33.000Z",
-    "dateEnd": "2026-06-04T04:59:12.000Z",
-    "dateLabel": "6/3/2026, 11:59:33 PM - 6/4/2026, 12:59:12 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260603-235933-achd",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 23,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-06-07T04:13:33.000Z",
+      "dateEnd": "2026-06-07T05:02:59.000Z",
+      "dateLabel": "6/7/2026, 12:13:33 AM - 6/7/2026, 1:02:59 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260607-001333-7lpy",
+      "summary": {
+        "borderlandsPct": 0.38235294117647056,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 47
+      }
+    },
+    {
+      "id": "20260604-013922-k9dg",
+      "title": "Lust Less",
+      "commanders": [
+        "Lust Less"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 59
-    }
-  },
-  {
-    "id": "20260603-001054-lzca",
-    "title": "Lust Less",
-    "commanders": [
-      "Lust Less"
-    ],
-    "dateStart": "2026-06-03T04:10:54.000Z",
-    "dateEnd": "2026-06-03T05:04:49.000Z",
-    "dateLabel": "6/3/2026, 12:10:54 AM - 6/3/2026, 1:04:49 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260603-001054-lzca",
-    "summary": {
-      "borderlandsPct": 0.21052631578947367,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 15,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 4,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-06-04T05:39:22.000Z",
+      "dateEnd": "2026-06-04T06:29:40.000Z",
+      "dateLabel": "6/4/2026, 1:39:22 AM - 6/4/2026, 2:29:40 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260604-013922-k9dg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 44
+      }
+    },
+    {
+      "id": "20260603-235933-achd",
+      "title": "Lust Less",
+      "commanders": [
+        "Lust Less"
       ],
-      "avgSquadSize": 21,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260601-233732-y86k",
-    "title": "Sister Less",
-    "commanders": [
-      "Sister Less"
-    ],
-    "dateStart": "2026-06-02T03:37:32.000Z",
-    "dateEnd": "2026-06-02T04:28:19.000Z",
-    "dateLabel": "6/1/2026, 11:37:32 PM - 6/2/2026, 12:28:19 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260601-233732-y86k",
-    "summary": {
-      "borderlandsPct": 0.24242424242424243,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 25,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 8,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-06-04T03:59:33.000Z",
+      "dateEnd": "2026-06-04T04:59:12.000Z",
+      "dateLabel": "6/3/2026, 11:59:33 PM - 6/4/2026, 12:59:12 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260603-235933-achd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 59
+      }
+    },
+    {
+      "id": "20260603-001054-lzca",
+      "title": "Lust Less",
+      "commanders": [
+        "Lust Less"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 40
-    }
-  },
-  {
-    "id": "20260601-002532-uspp",
-    "title": "Wuppët Baë",
-    "commanders": [
-      "Wuppët Baë"
-    ],
-    "dateStart": "2026-06-01T04:25:32.000Z",
-    "dateEnd": "2026-06-01T05:04:27.000Z",
-    "dateLabel": "6/1/2026, 12:25:32 AM - 6/1/2026, 1:04:27 AM",
-    "url": "https://fantom1979.github.io/HitF/?report=20260601-002532-uspp",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 38,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-06-03T04:10:54.000Z",
+      "dateEnd": "2026-06-03T05:04:49.000Z",
+      "dateLabel": "6/3/2026, 12:10:54 AM - 6/3/2026, 1:04:49 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260603-001054-lzca",
+      "summary": {
+        "borderlandsPct": 0.21052631578947367,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260601-233732-y86k",
+      "title": "Sister Less",
+      "commanders": [
+        "Sister Less"
       ],
-      "avgSquadSize": 24,
-      "avgEnemySize": 44
+      "dateStart": "2026-06-02T03:37:32.000Z",
+      "dateEnd": "2026-06-02T04:28:19.000Z",
+      "dateLabel": "6/1/2026, 11:37:32 PM - 6/2/2026, 12:28:19 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260601-233732-y86k",
+      "summary": {
+        "borderlandsPct": 0.24242424242424243,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 40
+      }
+    },
+    {
+      "id": "20260601-002532-uspp",
+      "title": "Wuppët Baë",
+      "commanders": [
+        "Wuppët Baë"
+      ],
+      "dateStart": "2026-06-01T04:25:32.000Z",
+      "dateEnd": "2026-06-01T05:04:27.000Z",
+      "dateLabel": "6/1/2026, 12:25:32 AM - 6/1/2026, 1:04:27 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260601-002532-uspp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 44
+      }
     }
-  }
-]
+  ]
+}
