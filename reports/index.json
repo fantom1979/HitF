@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260628-002302-vopv",
+      "title": "Sister Less",
+      "commanders": [
+        "Sister Less"
+      ],
+      "dateStart": "2026-06-28T04:23:02.000Z",
+      "dateEnd": "2026-06-28T06:03:32.000Z",
+      "dateLabel": "6/28/2026, 12:23:02 AM - 6/28/2026, 2:03:32 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260628-002302-vopv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260627-001033-dqht",
       "title": "Lust Less",
       "commanders": [
