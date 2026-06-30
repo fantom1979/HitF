@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260630-001048-xlvg",
+      "title": "Arxidotroxa",
+      "commanders": [
+        "Arxidotroxa"
+      ],
+      "dateStart": "2026-06-30T04:10:48.000Z",
+      "dateEnd": "2026-06-30T05:26:52.000Z",
+      "dateLabel": "6/30/2026, 12:10:48 AM - 6/30/2026, 1:26:52 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260630-001048-xlvg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260629-002716-osfx",
       "title": "Arxidotroxa",
       "commanders": [
