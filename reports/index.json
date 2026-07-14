@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260714-003619-mx9k",
+      "title": "Lust Less",
+      "commanders": [
+        "Lust Less"
+      ],
+      "dateStart": "2026-07-14T04:36:19.000Z",
+      "dateEnd": "2026-07-14T06:07:59.000Z",
+      "dateLabel": "7/14/2026, 12:36:19 AM - 7/14/2026, 2:07:59 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260714-003619-mx9k",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260713-003254-n1kq",
       "title": "Wuppêt",
       "commanders": [
