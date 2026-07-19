@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260719-021740-4wig",
+      "title": "Wuppèt",
+      "commanders": [
+        "Wuppèt"
+      ],
+      "dateStart": "2026-07-19T06:17:40.000Z",
+      "dateEnd": "2026-07-19T06:54:01.000Z",
+      "dateLabel": "7/19/2026, 2:17:40 AM - 7/19/2026, 2:54:01 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260719-021740-4wig",
+      "summary": {
+        "borderlandsPct": 0.08823529411764706,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260716-012147-cm85",
       "title": "Sister Less",
       "commanders": [
