@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260721-005416-k22m",
+      "title": "Ramixz",
+      "commanders": [
+        "Ramixz"
+      ],
+      "dateStart": "2026-07-21T04:54:16.000Z",
+      "dateEnd": "2026-07-21T06:25:01.000Z",
+      "dateLabel": "7/21/2026, 12:54:16 AM - 7/21/2026, 2:25:01 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260721-005416-k22m",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260720-003526-arn0",
       "title": "Arxidotroxa",
       "commanders": [
