@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260723-005805-udhd",
+      "title": "Arxidotroxa",
+      "commanders": [
+        "Arxidotroxa"
+      ],
+      "dateStart": "2026-07-23T04:58:05.000Z",
+      "dateEnd": "2026-07-23T06:21:41.000Z",
+      "dateLabel": "7/23/2026, 12:58:05 AM - 7/23/2026, 2:21:41 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260723-005805-udhd",
+      "summary": {
+        "borderlandsPct": 0.08,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260721-005416-k22m",
       "title": "Ramixz",
       "commanders": [
