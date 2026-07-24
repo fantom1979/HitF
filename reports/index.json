@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260724-012908-a3gq",
+      "title": "Wüppet",
+      "commanders": [
+        "Wüppet"
+      ],
+      "dateStart": "2026-07-24T05:29:08.000Z",
+      "dateEnd": "2026-07-24T06:49:40.000Z",
+      "dateLabel": "7/24/2026, 1:29:08 AM - 7/24/2026, 2:49:40 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260724-012908-a3gq",
+      "summary": {
+        "borderlandsPct": 0.023255813953488372,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260723-005805-udhd",
       "title": "Arxidotroxa",
       "commanders": [
