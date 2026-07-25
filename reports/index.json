@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260725-001543-gf5r",
+      "title": "Arxidotroxa, Lust Less",
+      "commanders": [
+        "Arxidotroxa",
+        "Lust Less"
+      ],
+      "dateStart": "2026-07-25T04:15:43.000Z",
+      "dateEnd": "2026-07-25T05:46:58.000Z",
+      "dateLabel": "7/25/2026, 12:15:43 AM - 7/25/2026, 1:46:58 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260725-001543-gf5r",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260724-012908-a3gq",
       "title": "Wüppet",
       "commanders": [
