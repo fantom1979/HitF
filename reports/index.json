@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260731-004730-xir0",
+      "title": "Sister Less",
+      "commanders": [
+        "Sister Less"
+      ],
+      "dateStart": "2026-07-31T04:47:30.000Z",
+      "dateEnd": "2026-07-31T05:42:28.000Z",
+      "dateLabel": "7/31/2026, 12:47:30 AM - 7/31/2026, 1:42:28 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260731-004730-xir0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260729-004418-oaeo",
       "title": "Sister Less",
       "commanders": [
