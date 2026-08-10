@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260810-004631-nqzb",
+      "title": "Wùppèt",
+      "commanders": [
+        "Wùppèt"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-08-10T04:46:31.000Z",
+      "dateEnd": "2026-08-10T05:50:26.000Z",
+      "dateLabel": "8/10/2026, 12:46:31 AM - 8/10/2026, 1:50:26 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260810-004631-nqzb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20260731-004730-xir0",
       "title": "Sister Less",
       "commanders": [
