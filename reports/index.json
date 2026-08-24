@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260824-000820-13fb",
+      "title": "Wuppet Egirl",
+      "commanders": [
+        "Wuppet Egirl"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-08-24T04:08:20.000Z",
+      "dateEnd": "2026-08-24T05:49:24.728Z",
+      "dateLabel": "8/24/2026, 12:08:20 AM - 8/24/2026, 1:49:24 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260824-000820-13fb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260815-014624-ff33",
       "title": "Rage Less, Wuppèt",
       "commanders": [
