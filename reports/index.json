@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-001621-a799",
+      "title": "Arxidotroxa, Sister Less",
+      "commanders": [
+        "Arxidotroxa",
+        "Sister Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-08-26T04:16:21.000Z",
+      "dateEnd": "2026-08-26T05:26:02.313Z",
+      "dateLabel": "8/26/2026, 12:16:21 AM - 8/26/2026, 1:26:02 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260826-001621-a799",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260824-000820-13fb",
       "title": "Wuppet Egirl",
       "commanders": [
