@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260829-004503-xfd9",
+      "title": "Sister Less",
+      "commanders": [
+        "Sister Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-08-29T04:45:03.000Z",
+      "dateEnd": "2026-08-29T05:56:48.088Z",
+      "dateLabel": "8/29/2026, 12:45:03 AM - 8/29/2026, 1:56:48 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260829-004503-xfd9",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 56
+      }
+    },
+    {
       "id": "20260827-002009-emvq",
       "title": "Elite Mikochi, Sister Less",
       "commanders": [
