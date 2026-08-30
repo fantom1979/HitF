@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-005548-xxe5",
+      "title": "Wuppët Baë",
+      "commanders": [
+        "Wuppët Baë"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-08-30T04:55:48.000Z",
+      "dateEnd": "2026-08-30T06:37:26.191Z",
+      "dateLabel": "8/30/2026, 12:55:48 AM - 8/30/2026, 2:37:26 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260830-005548-xxe5",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20260829-004503-xfd9",
       "title": "Sister Less",
       "commanders": [
