@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-002457-lrt7",
+      "title": "Wùppèt",
+      "commanders": [
+        "Wùppèt"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-08-31T04:24:57.000Z",
+      "dateEnd": "2026-08-31T05:49:22.361Z",
+      "dateLabel": "8/31/2026, 12:24:57 AM - 8/31/2026, 1:49:22 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260831-002457-lrt7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260830-005548-xxe5",
       "title": "Wuppët Baë",
       "commanders": [
