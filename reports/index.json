@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260908-010510-cx0u",
+      "title": "Sister Less",
+      "commanders": [
+        "Sister Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-09-08T05:05:10.000Z",
+      "dateEnd": "2026-09-08T06:09:24.981Z",
+      "dateLabel": "9/8/2026, 1:05:10 AM - 9/8/2026, 2:09:24 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260908-010510-cx0u",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260903-004152-sgwf",
       "title": "Lust Less",
       "commanders": [
