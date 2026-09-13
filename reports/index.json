@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260913-012046-0xkf",
+      "title": "Lust Less, Wùppèt",
+      "commanders": [
+        "Lust Less",
+        "Wùppèt"
+      ],
+      "guild": {
+        "id": "0C37342F-0088-F111-BB22-1249AB9AC125",
+        "name": "Never Back Down Never What",
+        "tag": "NVGU"
+      },
+      "dateStart": "2026-09-13T05:20:46.000Z",
+      "dateEnd": "2026-09-13T07:16:47.862Z",
+      "dateLabel": "9/13/2026, 1:20:46 AM - 9/13/2026, 3:16:47 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260913-012046-0xkf",
+      "summary": {
+        "borderlandsPct": 0.25806451612903225,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260912-010557-hulz",
       "title": "Lust Less",
       "commanders": [
