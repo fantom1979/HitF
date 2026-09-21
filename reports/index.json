@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260921-012942-e1qx",
+      "title": "Tag Less",
+      "commanders": [
+        "Tag Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-09-21T05:29:42.000Z",
+      "dateEnd": "2026-09-21T06:24:14.262Z",
+      "dateLabel": "9/21/2026, 1:29:42 AM - 9/21/2026, 2:24:14 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20260921-012942-e1qx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 43,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260921-012942-uybq",
       "title": "Tag Less",
       "commanders": [
