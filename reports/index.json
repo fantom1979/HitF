@@ -1,9 +1,37 @@
 {
   "colorPalette": "gold-bronze",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
   "entries": [
+    {
+      "id": "20261003-004500-nvyf",
+      "title": "Lust Less",
+      "commanders": [
+        "Lust Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-10-03T04:45:00.000Z",
+      "dateEnd": "2026-10-03T05:38:27.885Z",
+      "dateLabel": "10/3/2026, 12:45:00 AM - 10/3/2026, 1:38:27 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20261003-004500-nvyf",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 41
+      }
+    },
     {
       "id": "20260921-235926-hyzm",
       "title": "Arxidotroxa",
