@@ -3,7 +3,45 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.21.0"
+  },
   "entries": [
+    {
+      "id": "20261005-013346-2z2l",
+      "title": "Lust Less",
+      "commanders": [
+        "Lust Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-10-05T05:33:46.000Z",
+      "dateEnd": "2026-10-05T06:12:38.942Z",
+      "dateLabel": "10/5/2026, 1:33:46 AM - 10/5/2026, 2:12:38 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20261005-013346-2z2l",
+      "publishedBy": "fantom1979",
+      "summary": {
+        "borderlandsPct": 0.36585365853658536,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 43
+      }
+    },
     {
       "id": "20261004-003855-4bsx",
       "title": "Lust Less",
