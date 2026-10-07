@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.21.0"
+    "version": "3.22.1"
   },
   "entries": [
+    {
+      "id": "20261007-002012-dx6n",
+      "title": "Lust Less",
+      "commanders": [
+        "Lust Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-10-07T04:20:12.000Z",
+      "dateEnd": "2026-10-07T05:14:35.088Z",
+      "dateLabel": "10/7/2026, 12:20:12 AM - 10/7/2026, 1:14:35 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20261007-002012-dx6n",
+      "publishedBy": "fantom1979",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20261005-013346-2z2l",
       "title": "Lust Less",
