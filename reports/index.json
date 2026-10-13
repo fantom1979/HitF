@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261013-010240-ylso",
+      "title": "Arxidotroxa, Sister Less",
+      "commanders": [
+        "Arxidotroxa",
+        "Sister Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-10-13T05:02:40.000Z",
+      "dateEnd": "2026-10-13T06:17:33.882Z",
+      "dateLabel": "10/13/2026, 1:02:40 AM - 10/13/2026, 2:17:33 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20261013-010240-ylso",
+      "publishedBy": "fantom1979",
+      "summary": {
+        "borderlandsPct": 0.16129032258064516,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20261012-011705-t0po",
       "title": "Lust Less",
       "commanders": [
