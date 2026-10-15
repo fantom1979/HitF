@@ -5,9 +5,44 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.6"
+    "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261015-003017-qu0u",
+      "title": "Arxidotroxa, Lust Less",
+      "commanders": [
+        "Arxidotroxa",
+        "Lust Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-10-15T04:30:17.000Z",
+      "dateEnd": "2026-10-15T06:04:36.265Z",
+      "dateLabel": "10/15/2026, 12:30:17 AM - 10/15/2026, 2:04:36 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20261015-003017-qu0u",
+      "publishedBy": "fantom1979",
+      "summary": {
+        "borderlandsPct": 0.4,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 29
+      }
+    },
     {
       "id": "20261013-010240-ylso",
       "title": "Arxidotroxa, Sister Less",
