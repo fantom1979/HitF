@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261020-004716-vxmi",
+      "title": "Sister Less",
+      "commanders": [
+        "Sister Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-10-20T04:47:16.000Z",
+      "dateEnd": "2026-10-20T06:14:23.133Z",
+      "dateLabel": "10/20/2026, 12:47:16 AM - 10/20/2026, 2:14:23 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20261020-004716-vxmi",
+      "publishedBy": "fantom1979",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20261018-015024-lkce",
       "title": "Sister Less",
       "commanders": [
