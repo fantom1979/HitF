@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261031-005829-96mu",
+      "title": "Lust Less",
+      "commanders": [
+        "Lust Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-10-31T04:58:29.000Z",
+      "dateEnd": "2026-10-31T06:16:04.853Z",
+      "dateLabel": "10/31/2026, 12:58:29 AM - 10/31/2026, 2:16:04 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20261031-005829-96mu",
+      "publishedBy": "fantom1979",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 36
+      }
+    },
     {
       "id": "20261027-005243-pdl1",
       "title": "Sister Less",
