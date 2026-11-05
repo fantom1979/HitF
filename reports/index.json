@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261105-003802-16d4",
+      "title": "Arxidotroxa",
+      "commanders": [
+        "Arxidotroxa"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-11-05T05:38:02.000Z",
+      "dateEnd": "2026-11-05T07:02:10.485Z",
+      "dateLabel": "11/5/2026, 12:38:02 AM - 11/5/2026, 2:02:10 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20261105-003802-16d4",
+      "publishedBy": "fantom1979",
+      "summary": {
+        "borderlandsPct": 0.03125,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20261103-234443-uhsi",
       "title": "Arxidotroxa",
       "commanders": [
