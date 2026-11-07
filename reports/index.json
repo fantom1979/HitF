@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261105-234045-s6dd",
+      "title": "Lust Less",
+      "commanders": [
+        "Lust Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-11-06T04:40:45.000Z",
+      "dateEnd": "2026-11-06T05:40:24.724Z",
+      "dateLabel": "11/5/2026, 11:40:45 PM - 11/6/2026, 12:40:24 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20261105-234045-s6dd",
+      "publishedBy": "fantom1979",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20261105-003802-16d4",
       "title": "Arxidotroxa",
       "commanders": [
