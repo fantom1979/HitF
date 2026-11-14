@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261114-000422-qovn",
+      "title": "Lust Less",
+      "commanders": [
+        "Lust Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-11-14T05:04:22.000Z",
+      "dateEnd": "2026-11-14T06:41:52.173Z",
+      "dateLabel": "11/14/2026, 12:04:22 AM - 11/14/2026, 1:41:52 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20261114-000422-qovn",
+      "publishedBy": "fantom1979",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 15,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20261113-000852-04mn",
       "title": "Lust Less",
       "commanders": [
