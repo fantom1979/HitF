@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261125-232355-dkff",
+      "title": "Arxidotroxa, Rage Less",
+      "commanders": [
+        "Arxidotroxa",
+        "Rage Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-11-26T04:23:55.000Z",
+      "dateEnd": "2026-11-26T06:27:20.315Z",
+      "dateLabel": "11/25/2026, 11:23:55 PM - 11/26/2026, 1:27:20 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20261125-232355-dkff",
+      "publishedBy": "fantom1979",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20261124-235533-kbz6",
       "title": "Sister Less",
       "commanders": [
