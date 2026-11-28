@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261128-010115-eh57",
+      "title": "Lust Less",
+      "commanders": [
+        "Lust Less"
+      ],
+      "guild": {
+        "id": "0C46B86F-40BD-F011-8467-122223FBD123",
+        "name": "Rez Build N Use",
+        "tag": "HitF"
+      },
+      "dateStart": "2026-11-28T06:01:15.000Z",
+      "dateEnd": "2026-11-28T06:56:27.644Z",
+      "dateLabel": "11/28/2026, 1:01:15 AM - 11/28/2026, 1:56:27 AM",
+      "url": "https://fantom1979.github.io/HitF/?report=20261128-010115-eh57",
+      "publishedBy": "fantom1979",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 76
+      }
+    },
+    {
       "id": "20261127-000913-wgew",
       "title": "Rage Less",
       "commanders": [
